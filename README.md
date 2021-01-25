@@ -47,6 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [2nd Dimension](https://www.youtube.com/watch?v=y2AtGGCQiEs)
+- [All Seeing God](https://www.youtube.com/watch?v=BP4Utfqnp2I)
+- [Support Matters](https://www.youtube.com/watch?v=UxszvA9b1Oo)
+- [Specialty](https://www.youtube.com/watch?v=v-XseF1CEiA)
+- [Tangled Up](https://www.youtube.com/watch?v=kqM1tAX7FVQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCezyVNq0g6ScUSZaCpLMPgg)
