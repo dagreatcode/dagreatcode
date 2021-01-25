@@ -54,7 +54,7 @@
 - [My Son Has Asthma :'(](https://www.youtube.com/watch?v=mu0K7_zTvBM)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCv7StTXsF0FhOAJeD2S3lkA)
+➡️ [more videos...](https://www.youtube.com/channel/UCezyVNq0g6ScUSZaCpLMPgg)
 
 ---
 
@@ -107,4 +107,4 @@
 [codechef]: http://codechef.com/users/dagreatcode
 [linkedin]: https://www.linkedin.com/in/vincent-kendrick-baab71b2/
 [twitter]: https://twitter.com/VincentKendri13
-[youtube]: https://www.youtube.com/channel/UCv7StTXsF0FhOAJeD2S3lkA
+[youtube]: https://www.youtube.com/channel/UCezyVNq0g6ScUSZaCpLMPgg
