@@ -19,6 +19,8 @@
 [<img align="left" alt="dagreatcode | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 [<img align="left" alt="dagreatcode | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 [<img align="left" alt="dagreatcode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 
 <br />
 
@@ -105,3 +107,4 @@
 [codechef]: http://codechef.com/users/dagreatcode
 [linkedin]: https://www.linkedin.com/in/vincent-kendrick-baab71b2/
 [twitter]: https://twitter.com/VincentKendri13
+[youtube]: https://www.youtube.com/channel/UCv7StTXsF0FhOAJeD2S3lkA
