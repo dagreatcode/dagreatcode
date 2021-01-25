@@ -63,14 +63,14 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dagreatcode.com)
+➡️ [more blog posts...](https://dev.to/dagreatcode)
 
 ---
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->
 
-➡️ [more medium stories...](https://dagreatcode.com)
+➡️ [more medium stories...](https://medium.com/@dagreatcode)
 
 ---
 
