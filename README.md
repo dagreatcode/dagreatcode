@@ -84,15 +84,11 @@
 </details>
 
   <details>
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagreatcode&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-  <a href="https://github.com/dagreatcode/github-readme-stats"> -->
-  <!-- Change the `github-readme-stats.dagreatcode1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagreatcode&layout=compact&theme=material-palenight" />
 
   <a href="https://github.com/dagreatcode/github-readme-stats">
   <!-- Change the `github-readme-stats.dagreatcode1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dagreatcode&repo=github-readme-stats&theme=material-palenight" />
-</a>   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dagreatcode&repo=github-readme-stats&theme=material-palenight" /> 
 </a>
   </details>
 
