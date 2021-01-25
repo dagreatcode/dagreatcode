@@ -7,6 +7,11 @@
 - 🥅 2021 Goals: Become a Full-Stack Master
 - ⚡ Fun fact: I love making beats, reading Javascript books, and drawing my son anime book
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+
 ### Connect with me:
 
 [<img align="left" alt="dagreatcode.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -38,13 +43,59 @@
 
 ---
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Awesome Micro-Interaction Input Character Limit Counter | HTML, CSS, JavaScript (2021)](https://www.youtube.com/watch?v=Byx1Gc3xTD8)
+- [STACKr News 2021 (January Week 2) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=RCIyQZp-THc)
+- [Resume Tips | How To Pass Application Tracking Systems (ATS) & Get Interviews (Software Developers)](https://www.youtube.com/watch?v=LaWubpSqiPk)
+- [STACKr News 2021 (January Week 1) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=cCdYYYaJhWg)
+- [Fancy Burger Menu Button - Animated CSS Effects (2021)](https://www.youtube.com/watch?v=6HS8owNMCb4)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+---
 ### 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->
 
 ---
 
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/codeSTACKr/build-responsive-website/pull/1) in [codeSTACKr/build-responsive-website](https://github.com/codeSTACKr/build-responsive-website)
+2. ❗️ Closed issue [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. 🗣 Commented on [#4](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/4) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+5. ❗️ Closed issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
 <img align="left" alt="dagreatcode's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dagreatcode&show_icons=true&hide_border=true" />
+</details>
 
 [website]: https://dagreatcode.github.io/vk-portfolio/
 [medium]: https://medium.com/@dagreatcode/
