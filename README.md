@@ -47,11 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Finally Cleaned My Records](https://www.youtube.com/watch?v=WzIfKbT6BXw)
-- [GoodWill Shopping For Vinyl Records For My Lo-Fi](https://www.youtube.com/watch?v=1n-ttYZQTKg)
-- [Potty Training Today. With Convo](https://www.youtube.com/watch?v=DeFxjVjXOAM)
-- [I Miss Making Lo-Fi and My SP-555](https://www.youtube.com/watch?v=aAN9KnhxngQ)
-- [My Son Has Asthma :'(](https://www.youtube.com/watch?v=mu0K7_zTvBM)
+- [2nd Dimension](https://www.youtube.com/watch?v=y2AtGGCQiEs)
+- [All Seeing God](https://www.youtube.com/watch?v=BP4Utfqnp2I)
+- [Support Matters](https://www.youtube.com/watch?v=UxszvA9b1Oo)
+- [Specialty](https://www.youtube.com/watch?v=v-XseF1CEiA)
+- [Tangled Up](https://www.youtube.com/watch?v=kqM1tAX7FVQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCezyVNq0g6ScUSZaCpLMPgg)
