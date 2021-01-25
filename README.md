@@ -47,6 +47,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Finally Cleaned My Records](https://www.youtube.com/watch?v=WzIfKbT6BXw)
+- [GoodWill Shopping For Vinyl Records For My Lo-Fi](https://www.youtube.com/watch?v=1n-ttYZQTKg)
+- [Potty Training Today. With Convo](https://www.youtube.com/watch?v=DeFxjVjXOAM)
+- [I Miss Making Lo-Fi and My SP-555](https://www.youtube.com/watch?v=aAN9KnhxngQ)
+- [My Son Has Asthma :'(](https://www.youtube.com/watch?v=mu0K7_zTvBM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCezyVNq0g6ScUSZaCpLMPgg)
