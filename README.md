@@ -1,8 +1,8 @@
 ### Hi there, I'm [Vincent Kendrick][website] 👋
 
-## I'm a Man, Friend, and Researcher!
-- 🔭 I’m currently working on a [Portfolio][website]!
-- 🌱 I’m currently learning Data Science with Python 🤣
+## I'm a Man, Husband, Friend, and Researcher!
+- 🔭 I’m currently working on my [Portfolio][website]!
+- 🌱 I’m currently building React Applications, and Full-Stack PWA Websites and currently re-studying Python 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Become a Full-Stack Master
 - ⚡ Fun fact: I love making beats, reading Javascript books, and drawing my son anime book
