@@ -70,7 +70,7 @@
 <!-- MEDIUM-STORY-LIST:START -->
 <!-- MEDIUM-STORY-LIST:END -->
 
-➡️ [more medium story...](https://dagreatcode.com)
+➡️ [more medium stories...](https://dagreatcode.com)
 
 ---
 
