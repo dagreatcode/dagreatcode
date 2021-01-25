@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vincent Kendrick][website] 👋
 
-## I'm a Man, Husband, Friend, and Researcher!
+## I'm a Man, Husband, Father, Friend, Developer, Teacher, and Researcher!
 - 🔭 I’m currently working on my [Portfolio][website]!
 - 🌱 I’m currently building React Applications, and Full-Stack PWA Websites and currently re-studying Python 🤣
 - 👯 I’m looking to collaborate with other content creators
