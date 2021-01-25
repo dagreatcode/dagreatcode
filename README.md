@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Awesome Micro-Interaction Input Character Limit Counter | HTML, CSS, JavaScript (2021)](https://www.youtube.com/watch?v=Byx1Gc3xTD8)
-- [STACKr News 2021 (January Week 2) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=RCIyQZp-THc)
-- [Resume Tips | How To Pass Application Tracking Systems (ATS) & Get Interviews (Software Developers)](https://www.youtube.com/watch?v=LaWubpSqiPk)
-- [STACKr News 2021 (January Week 1) | Top Web Dev Videos You NEED to Watch!](https://www.youtube.com/watch?v=cCdYYYaJhWg)
-- [Fancy Burger Menu Button - Animated CSS Effects (2021)](https://www.youtube.com/watch?v=6HS8owNMCb4)
+- [Finally Cleaned My Records](https://www.youtube.com/watch?v=WzIfKbT6BXw)
+- [GoodWill Shopping For Vinyl Records For My Lo-Fi](https://www.youtube.com/watch?v=1n-ttYZQTKg)
+- [Potty Training Today. With Convo](https://www.youtube.com/watch?v=DeFxjVjXOAM)
+- [I Miss Making Lo-Fi and My SP-555](https://www.youtube.com/watch?v=aAN9KnhxngQ)
+- [My Son Has Asthma :'(](https://www.youtube.com/watch?v=mu0K7_zTvBM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
