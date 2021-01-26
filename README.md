@@ -83,7 +83,7 @@
 </details>
 
 <details>
-  <summary>:world: GitHub Stats</summary>
+  <summary>:earth: GitHub Stats</summary>
 
 <img align="left" alt="dagreatcode's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dagreatcode&show_icons=true&hide_border=true" />
 </details>
