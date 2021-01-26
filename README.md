@@ -89,7 +89,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: More GitHub Stats...</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagreatcode&layout=compact&theme=material-palenight" />
 
   <a href="https://github.com/dagreatcode/github-readme-stats">
