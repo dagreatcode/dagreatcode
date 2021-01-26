@@ -73,12 +73,14 @@
 ➡️ [more medium stories...](https://medium.com/@dagreatcode)
 
 ---
+<!--START_SECTION:ACTIVITY-->
+<!--END_SECTION:ACTIVITY-->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:ACTIVITY-->
+<!--END_SECTION:ACTIVITY-->
 
 </details>
 
