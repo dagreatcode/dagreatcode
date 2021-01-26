@@ -44,8 +44,8 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
+### 📺 Latest YouTube Videos 
+##### 🎧 Music
 <!-- YOUTUBE:START -->
 - [2nd Dimension](https://www.youtube.com/watch?v=y2AtGGCQiEs)
 - [All Seeing God](https://www.youtube.com/watch?v=BP4Utfqnp2I)
@@ -58,7 +58,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -83,19 +83,20 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:world: GitHub Stats</summary>
 
 <img align="left" alt="dagreatcode's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dagreatcode&show_icons=true&hide_border=true" />
 </details>
 
-  <details>
+<details>
+  <summary>:zap: GitHub Stats</summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagreatcode&layout=compact&theme=material-palenight" />
 
   <a href="https://github.com/dagreatcode/github-readme-stats">
   <!-- Change the `github-readme-stats.dagreatcode1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dagreatcode&repo=github-readme-stats&theme=material-palenight" /> 
 </a>
-  </details>
+</details>
 
 [website]: https://dagreatcode.github.io/vk-portfolio/
 [medium]: https://medium.com/@dagreatcode/
