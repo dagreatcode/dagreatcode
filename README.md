@@ -98,6 +98,9 @@
 </a>
 </details>
 
+<!-- GO:START -->
+<!-- GO:END -->
+
 [website]: https://dagreatcode.github.io/vk-portfolio/
 [medium]: https://medium.com/@dagreatcode/
 [kaggle]: https://www.kaggle.com/dagreatcode
