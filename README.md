@@ -1,5 +1,11 @@
 ### Hi there, I'm [Vincent Kendrick][website] 👋
 
+###### Resume:
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" />][resume]
+
+
+<br />
+
 ## I'm a Man, Husband, Father, Friend, Developer, Teacher, and Researcher!
 - 🔭 I’m currently working on my [Portfolio][website]!
 - 🌱 I’m currently building React Applications, and Full-Stack PWA Websites and currently re-studying Python 🤣
@@ -20,7 +26,6 @@
 [<img align="left" alt="dagreatcode | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 [<img align="left" alt="dagreatcode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
 
 <br />
 
@@ -101,10 +106,11 @@
 <!-- GO:START -->
 <!-- GO:END -->
 
-[website]: https://dagreatcode.github.io/vk-portfolio/
+[website]: http://www.vincentkendrick.com/
 [medium]: https://medium.com/@dagreatcode/
 [kaggle]: https://www.kaggle.com/dagreatcode
 [codechef]: http://codechef.com/users/dagreatcode
 [linkedin]: https://www.linkedin.com/in/vincent-kendrick-baab71b2/
 [twitter]: https://twitter.com/VincentKendri13
 [youtube]: https://www.youtube.com/channel/UCezyVNq0g6ScUSZaCpLMPgg
+[resume]: https://docs.google.com/document/d/1Ptx5x2S5qKHgHC2DALhAK5AOjyW5RFyhRwSoGi3RDbM/edit?usp=sharing
