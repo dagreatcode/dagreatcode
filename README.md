@@ -7,7 +7,7 @@
 <br />
 
 ## I'm a Man, Husband, Father, Friend, Developer, Teacher, and Researcher!
-- 🔭 I’m currently working on my [Portfolio][website]!
+- 🔭 I’m currently working on a new project called [Retro Luxe][retroluxe]!
 - 🌱 I’m currently building React Applications, and Full-Stack PWA Websites and currently re-studying Python 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Become a Full-Stack Master
@@ -107,6 +107,7 @@
 <!-- GO:END -->
 
 [website]: http://www.vincentkendrick.com/
+[retroluxe]: https://retroluxesite.herokuapp.com/
 [medium]: https://medium.com/@dagreatcode/
 [kaggle]: https://www.kaggle.com/dagreatcode
 [codechef]: http://codechef.com/users/dagreatcode
