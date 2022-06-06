@@ -8,7 +8,7 @@
 
 ## I'm a Man, Husband, Father, Friend, Developer, Teacher, and Researcher!
 - 🔭 I’m currently working on a new project called [Covid Way][covid-way]!
-- 🌱 I’m currently building React Applications, and Full-Stack PWA Websites and currently re-studying Python 🤣
+- 🌱 I’m currently building React Applications, and Full-Stack PWA Websites and currently looking into React Native. 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Become a Full-Stack Master
 - ⚡ Fun fact: I love making beats, reading Javascript books, and drawing my son anime book
